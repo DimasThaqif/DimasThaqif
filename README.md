@@ -1,7 +1,7 @@
 <h1>Hola bang 👋</h1>
-<h3>kenalin aku Dimas, untuk kali ini aku mau kasih tau perjalanan aku untuk menjadi front-end dan UI/UX Designer, lumayan sulit untuk di tahap perkodingan wkwkwk, tetapi ya namanya juga usaha jadinya ada beberapa project yang aku kerjain sendiri biar keliatan seru jadi frot-end, aku juga sekarang fokusnya ke ngoding dan UI/UX Design</h3>
+<h3>kenalin aku Dimas, untuk kali ini aku mau kasih tau perjalanan aku untuk menjadi web developer dan UI/UX Designer, lumayan sulit untuk di tahap perkodingan wkwkwk, tetapi ya namanya juga usaha jadinya ada beberapa project yang aku kerjain sendiri biar keliatan seru jadi web developer, aku juga sekarang fokusnya ke ngoding dan UI/UX Design</h3>
 
-- 🌱 I’m currently learning **Front-end**
+- 🌱 I’m currently learning **web development**
 
 - 👨‍💻 All of my projects are available at [https://portodims.vercel.app/](https://portodims.vercel.app/)
 
