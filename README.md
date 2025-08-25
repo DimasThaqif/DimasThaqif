@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Dimas</h1>
-<h3>Hallo gaissss aku Dimas, untuk kali ini aku mau kasih tau perjalanan aku untuk menjadi front-end dan UI/UX Designer, lumayan sulit untuk di tahap perkodingan wkwkwk, tetapi ya namanya juga usaha jadinya ada beberapa project yang aku kerjain sendiri biar keliatan seru jadi frot-end, aku juga sekarang fokusnya ke ngoding dan UI/UX Design</h3>
+<h1>Hola bang 👋</h1>
+<h3>kenalin aku Dimas, untuk kali ini aku mau kasih tau perjalanan aku untuk menjadi front-end dan UI/UX Designer, lumayan sulit untuk di tahap perkodingan wkwkwk, tetapi ya namanya juga usaha jadinya ada beberapa project yang aku kerjain sendiri biar keliatan seru jadi frot-end, aku juga sekarang fokusnya ke ngoding dan UI/UX Design</h3>
 
 - 🌱 I’m currently learning **Front-end**
 
