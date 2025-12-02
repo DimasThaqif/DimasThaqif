@@ -23,8 +23,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasthaqif&show_icons=true&locale=en&layout=compact&theme=radical" alt="top langs" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=dimasthaqif&show_icons=true&theme=radical" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasthaqif&show_icons=true&locale=en&layout=compact&theme=radical" />
 </p>
+
+
 
 ---
 
