@@ -12,7 +12,8 @@
 ### 👨‍💻 About Me
 - 🎓 Informatics Graduate from **Universitas Ahmad Dahlan**  
 - 🎯 Graduate of **Bangkit Academy** (Android Developer Learning Path)  
-- 💼 Internship as **Frontend Developer** at *PT. Bina Lintas Usaha Ekonomi*  
+- 💼 Internship as **Frontend Developer** at *PT. Bina Lintas Usaha Ekonomi*
+- 💼 Freelance as **UI/UX Designer** 
 - 🌱 Currently learning **Web Development & AI**  
 - 🚀 All my projects → [portodims.vercel.app](https://portodims.vercel.app)  
 - 📫 Reach me at **dimasthaqif10@gmail.com**
